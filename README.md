@@ -1,2 +1,1 @@
-# Basic-Machine-Leaning-Algos
-# Matlab Octave
+# Basic-Machine-Leaning-Algos Matlab Octave
